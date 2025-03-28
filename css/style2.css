@@ -6,10 +6,11 @@
 body {
     background-color: bisque;
 }
+
 h1 {
     background-color: rgb(255, 113, 102);
-        color: hsl(22, 75%, 64%) padding: 40px;
-        text-align: center;
+    color: hsl(22, 75%, 64%) padding: 40px;
+    text-align: center;
 }
 
 p {
